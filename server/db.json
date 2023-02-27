@@ -408,5 +408,15 @@
             "longitude": "39.84374",
             "id": 68
         }
+    ],
+    "soilTest": [
+        {
+            "name of community": "Misheni Test Group",
+            "report_path": "./data/soilreport/SAMPLE SOIL TEST II.pdf"
+        },
+        {
+            "name of community": "Mtumizi Self Help Group",
+            "report_path": "./data/soilreport/SAMPLE SOIL TEST.pdf"
+        }
     ]
 }

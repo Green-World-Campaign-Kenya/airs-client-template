@@ -8,10 +8,6 @@
     "start": "node server/app.js",
     "server": "nodemon server/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/achingachris/gwck-hackathon-mock-server.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
